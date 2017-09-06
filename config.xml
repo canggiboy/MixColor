@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://ikhsan.com/MixColor" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="MDNxHmzRtd.MixColor" package="MDNxHmzRtd" required_version="2.4"/>
+    <author email="muhammadikhsan1908@gmail.com">Muhammad Ikhsan</author>
+    <content src="index.html"/>
+    <description>Mix your favorite colors with this app.</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="logo.png"/>
+    <name>MixColor</name>
+    <tizen:profile name="mobile"/>
+    <tizen:setting context-menu="disable"/>
+</widget>
